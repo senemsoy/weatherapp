@@ -1,0 +1,34 @@
+body {
+	background: linear-gradient(to right, #11998e, #38ef7d);
+	font-family: 'Copse', serif;
+}
+
+h1{
+	font-size:50px;
+}
+
+.container{
+	width: 500px;
+	text-align: center;
+	padding-top: 100px; 
+}
+
+.icon-size {
+	font-size: 80px;
+	padding-bottom: 40px;
+	padding-top: 30px;
+
+}
+
+.weather-box{
+	font-size: 30px;
+}
+
+.celsius,
+.fahrenheit {
+	font-size: 30px;
+	font-weight: bold;
+
+}
+
+
