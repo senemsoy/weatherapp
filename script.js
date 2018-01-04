@@ -21,7 +21,7 @@ $(document).ready(function(){
   			lat = position.coords.latitude;
 
   			//setting up the api url with the new latitude and longitude 
-   			api = "https://api.openweathermap.org/data/2.5/weather?lat="+lat+"&lon="+long+"&appid=2be5cf56cc07e9035b59d7766f2e2288";
+   			api = "https://cors-anywhere.herokuapp.com/https://api.openweathermap.org/data/2.5/weather?lat="+lat+"&lon="+long+"&appid=2be5cf56cc07e9035b59d7766f2e2288";
 
 
 			$.getJSON(api, function(data){
