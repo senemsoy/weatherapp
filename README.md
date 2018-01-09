@@ -7,4 +7,3 @@ Stack: HTML | CSS | Javascript | jQuery | Bootstrap | OpenWeatherMap API | Googl
 
 Here is a [demo](https://senemsoy.github.io/weatherapp/). 
 
-![Screenshot](screenshot)
