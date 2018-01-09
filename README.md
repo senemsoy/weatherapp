@@ -1,4 +1,4 @@
-# Random Quote Generator
+# Local Weather App
 Web page showing the local weather . 
 
 Weather icons from [here](https://github.com/erikflowers/weather-icons).
